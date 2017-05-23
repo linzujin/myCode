@@ -20,7 +20,7 @@
 $VERSION='$Id: memcache.php,v 1.1.2.3 2008/08/28 18:07:54 mikl Exp $';
 
 define('ADMIN_USERNAME','whoareyou'); 	// Admin Username
-define('ADMIN_PASSWORD','callmejwkj');  	// Admin Password
+define('ADMIN_PASSWORD','123456');  	// Admin Password
 define('DATE_FORMAT','Y/m/d H:i:s');
 define('GRAPH_SIZE',200);
 define('MAX_ITEM_DUMP',50);
