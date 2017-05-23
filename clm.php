@@ -1,7 +1,7 @@
 <?php
 
 define('ADMIN_USERNAME','whoareyou'); 	// Admin Username
-define('ADMIN_PASSWORD','callmejwkj');  	// Admin Password
+define('ADMIN_PASSWORD','123456');  	// Admin Password
 
 if (!isset($_SERVER['PHP_AUTH_USER']) || !isset($_SERVER['PHP_AUTH_PW']) ||
            $_SERVER['PHP_AUTH_USER'] != ADMIN_USERNAME ||$_SERVER['PHP_AUTH_PW'] != ADMIN_PASSWORD) {
